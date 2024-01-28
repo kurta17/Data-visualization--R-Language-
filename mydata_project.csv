@@ -1,0 +1,308 @@
+"Name","Drive","NumberofSeats","Acceleration_sec","TopSpeed_kmh","Range_km","Efficiency_whkm","FastchargeSpeed_kmh","PriceinGermany_euro","PriceinUK_pound","Available","Useable_battery_Kwh2","Useable_battery_Kwh"
+"Lucid Air Dream Edition P","All Wheel Drive",5,2.7,270,645,183,820,218000,NA,2022,118,118
+"Porsche Taycan Turbo S","All Wheel Drive",4,2.8,260,400,209,980,189668,142400,2020,83.7,83.7
+"Audi e-tron GT RS","All Wheel Drive",4,3.3,250,405,210,1000,146050,115000,2021,85,85
+"Renault Zoe ZE50 R110","Front Wheel Drive",5,11.4,135,315,165,230,36840,NA,2019,52,52
+"Audi Q4 e-tron 35","Rear Wheel Drive",5,9,160,285,182,360,NA,NA,2021,52,52
+"Tesla Model Y Performance","All Wheel Drive",5,3.7,250,415,181,640,63667,59990,2022,75,75
+"Porsche Taycan 4 Cross Turismo","All Wheel Drive",4,5.1,220,425,197,1050,98514,84500,2021,83.7,83.7
+"Renault Zoe ZE50 R135","Front Wheel Drive",5,9.5,140,310,168,230,37840,29995,2019,52,52
+"Porsche Taycan Turbo","All Wheel Drive",4,3.2,260,415,202,1020,156348,119900,2020,83.7,83.7
+"Honda e Advance","Rear Wheel Drive",4,8.3,145,170,168,180,39900,36920,2020,28.5,28.5
+"Porsche Taycan 4S","All Wheel Drive",4,4,250,395,180,970,108867,86500,2020,71,71
+"Porsche Taycan 4S Plus","All Wheel Drive",4,4,250,460,182,1130,114389,90406,2020,83.7,83.7
+"Mercedes EQV 300 Long","Front Wheel Drive",7,12.1,160,305,295,310,71626,83530,2020,90,90
+"Lexus UX 300e","Front Wheel Drive",5,7.5,160,235,191,150,47550,NA,2020,45,45
+"BMW i4 eDrive40","Rear Wheel Drive",5,5.7,190,470,172,730,59200,57890,2021,80.7,80.7
+"Renault Twingo Electric","Rear Wheel Drive",4,12.6,135,130,164,NA,28000,NA,2020,21.3,21.3
+"Fiat 500e Cabrio 42 kWh","Front Wheel Drive",4,9,150,230,162,380,37990,33645,2020,37.3,37.3
+"Skoda Enyaq iV 60","Rear Wheel Drive",5,8.7,160,325,178,440,NA,38970,2021,58,58
+"Skoda Enyaq iV 80","Rear Wheel Drive",5,8.6,160,420,183,530,48900,42925,2021,77,77
+"Skoda Enyaq iV 80x","All Wheel Drive",5,6.9,160,400,193,500,NA,51765,2021,77,77
+"Skoda Enyaq iV RS","All Wheel Drive",5,6.2,180,390,197,540,63300,NA,2022,77,77
+"Fiat 500e Hatchback 42 kWh","Front Wheel Drive",4,9,150,235,159,390,34990,30645,2020,37.3,37.3
+"Audi Q4 Sportback e-tron 35","Rear Wheel Drive",5,9,160,295,176,370,NA,NA,2021,52,52
+"Nissan Ariya 63kWh","Front Wheel Drive",5,7.5,160,320,197,430,47490,46145,2022,63,63
+"Nissan Ariya 87kWh","Front Wheel Drive",5,7.6,160,435,200,520,58990,51895,2022,87,87
+"Nissan Ariya e-4ORCE 87kWh - 225 kW","All Wheel Drive",5,5.7,200,420,207,500,61990,54595,2022,87,87
+"Nissan Ariya e-4ORCE 87kWh - 290 kW","All Wheel Drive",5,5.1,200,420,207,500,71490,NA,2023,87,87
+"Volkswagen ID.4 Pro Performance","Rear Wheel Drive",5,8.5,160,410,188,520,46335,46035,2021,77,77
+"Mercedes EQV 300 Extra-Long","Front Wheel Drive",7,12.1,160,305,295,310,72519,NA,2020,90,90
+"Lucid Air Grand Touring","All Wheel Drive",5,3.2,270,665,168,840,174500,NA,2023,112,112
+"Lucid Air Touring","All Wheel Drive",5,3.4,250,550,160,960,120000,NA,2023,88,88
+"Lucid Air Pure","Rear Wheel Drive",5,4.2,200,560,157,980,1e+05,NA,2023,88,88
+"Fiat 500e Hatchback 24 kWh","Front Wheel Drive",4,9,135,135,158,230,30990,NA,2020,21.3,21.3
+"Fiat 500e 3+1 42 kWh","Front Wheel Drive",4,9,150,235,159,390,36990,NA,2020,37.3,37.3
+"Mercedes EQC 400 4MATIC","All Wheel Drive",5,5.1,180,370,216,440,66069,72335,2020,80,80
+"Citroen e-SpaceTourer M 50 kWh","Front Wheel Drive",7,12.1,130,185,250,290,53640,47495,2020,46.3,46.3
+"Citroen e-SpaceTourer XL 50 kWh","Front Wheel Drive",7,12.1,130,180,257,290,54430,48335,2020,46.3,46.3
+"Citroen e-SpaceTourer M 75 kWh","Front Wheel Drive",7,13.3,130,265,257,290,59640,NA,2021,68,68
+"Citroen e-SpaceTourer XL 75 kWh","Front Wheel Drive",7,13.3,130,260,262,280,60430,NA,2021,68,68
+"Opel Zafira-e Life M 50 kWh","Front Wheel Drive",7,12.1,130,185,250,290,63250,50630,2020,46.3,46.3
+"Opel Zafira-e Life L 50 kWh","Front Wheel Drive",7,12.1,130,180,257,290,64075,50990,2020,46.3,46.3
+"Opel Zafira-e Life M 75 kWh","Front Wheel Drive",7,13.3,130,265,257,290,69250,NA,2021,68,68
+"Opel Zafira-e Life L 75 kWh","Front Wheel Drive",7,13.3,130,260,262,280,70075,NA,2021,68,68
+"Peugeot e-Traveller Standard 50 kWh","Front Wheel Drive",7,13.1,130,185,250,290,53640,49100,2020,46.3,46.3
+"Peugeot e-Traveller Long 50 kWh","Front Wheel Drive",7,13.1,130,180,257,290,54430,54275,2020,46.3,46.3
+"Peugeot e-Traveller Standard 75 kWh","Front Wheel Drive",7,14.3,130,265,257,290,59640,NA,2021,68,68
+"Peugeot e-Traveller Long 75 kWh","Front Wheel Drive",7,14.3,130,260,262,280,60430,NA,2021,68,68
+"Porsche Taycan ","Rear Wheel Drive",4,5.4,230,410,173,1010,88399,75500,2021,71,71
+"Porsche Taycan Plus","Rear Wheel Drive",4,5.4,230,475,176,1170,94123,79549,2021,83.7,83.7
+"Tesla Model S Dual Motor","All Wheel Drive",5,3.2,250,570,167,790,112990,1e+05,2023,95,95
+"Tesla Model S Plaid","All Wheel Drive",5,2.1,282,550,173,770,137990,125000,2022,95,95
+"Tesla Model X Dual Motor","All Wheel Drive",7,3.9,250,470,202,650,120990,108000,2023,95,95
+"Tesla Model X Plaid","All Wheel Drive",7,2.6,262,455,209,630,140990,128000,2022,95,95
+"Mini Cooper SE ","Front Wheel Drive",4,7.3,150,180,161,260,35700,29000,2021,28.9,28.9
+"JAC iEV7s ","Front Wheel Drive",5,12,132,225,173,160,NA,NA,2021,39,39
+"Volkswagen ID.4 Pure Performance","Rear Wheel Drive",5,9,160,285,182,360,NA,40275,2021,52,52
+"Audi e-tron GT quattro","All Wheel Drive",4,4.1,245,420,202,1030,106050,84000,2021,85,85
+"Hyundai Kona Electric 39 kWh","Front Wheel Drive",5,9.9,155,250,157,220,36400,32450,2021,39.2,39.2
+"Hyundai Kona Electric 64 kWh","Front Wheel Drive",5,7.9,167,395,162,370,42900,37750,2021,64,64
+"Porsche Taycan 4S Cross Turismo","All Wheel Drive",4,4.1,240,425,197,1050,114222,91000,2021,83.7,83.7
+"Porsche Taycan Turbo Cross Turismo","All Wheel Drive",4,3.3,250,400,209,980,157776,120900,2021,83.7,83.7
+"Porsche Taycan Turbo S Cross Turismo","All Wheel Drive",4,2.9,250,385,217,950,191096,143400,2021,83.7,83.7
+"Kia EV6 GT","All Wheel Drive",5,3.5,260,370,200,970,72990,62645,2022,74,74
+"BMW iX xDrive40","All Wheel Drive",5,6.1,200,360,197,480,77300,69905,2021,71,71
+"BMW iX xDrive50","All Wheel Drive",5,4.6,200,505,208,680,100100,99785,2021,105.2,105.2
+"MG MG5 Electric Long Range","Front Wheel Drive",5,7.7,185,335,171,330,38490,30995,2022,57.4,57.4
+"MG Marvel R Performance","All Wheel Drive",5,4.9,200,330,197,390,50990,NA,2021,65,65
+"Hyundai IONIQ 5 Standard Range 2WD","Rear Wheel Drive",5,8.5,185,295,183,720,43900,43150,2021,54,54
+"Kia EV6 Standard Range 2WD","Rear Wheel Drive",5,8.5,185,305,177,750,46990,NA,2021,54,54
+"Kia EV6 Long Range 2WD","Rear Wheel Drive",5,7.3,185,410,180,1070,51990,45245,2021,74,74
+"Kia EV6 Long Range AWD","All Wheel Drive",5,5.2,185,400,185,1050,55980,51745,2021,74,74
+"Mercedes EQS 450+","Rear Wheel Drive",5,6.2,210,640,168,960,109551,105610,2021,107.8,107.8
+"Mercedes EQS 580 4MATIC","All Wheel Drive",5,4.3,210,605,178,900,141705,NA,2021,107.8,107.8
+"Volkswagen ID.4 Pure","Rear Wheel Drive",5,10.9,160,285,182,360,NA,38845,2021,52,52
+"Audi Q4 e-tron 40","Rear Wheel Drive",5,8.5,160,405,189,510,51900,49930,2021,76.6,76.6
+"Audi Q4 e-tron 50 quattro","All Wheel Drive",5,6.2,180,385,199,490,57900,56310,2021,76.6,76.6
+"Audi Q4 Sportback e-tron 50 quattro","All Wheel Drive",5,6.2,180,400,192,500,59900,57810,2021,76.6,76.6
+"Mercedes EQB 350 4MATIC","All Wheel Drive",7,6.2,160,335,199,480,58197,56810,2022,66.5,66.5
+"Mercedes EQA 300 4MATIC","All Wheel Drive",5,7.7,160,350,190,500,53746,53010,2021,66.5,66.5
+"Mercedes EQA 350 4MATIC","All Wheel Drive",5,6,160,350,190,500,56424,54510,2021,66.5,66.5
+"Toyota PROACE Verso M 75 kWh","Front Wheel Drive",7,13.1,130,265,257,290,64530,NA,2021,68,68
+"Toyota PROACE Verso L 75 kWh","Front Wheel Drive",7,13.1,130,260,262,280,65385,NA,2021,68,68
+"CUPRA Born 150 kW - 58 kWh","Rear Wheel Drive",5,7.3,160,350,166,470,39370,36475,2021,58,58
+"CUPRA Born 170 kW - 58 kWh","Rear Wheel Drive",5,6.6,160,345,168,460,40750,39205,2022,58,58
+"CUPRA Born 170 kW - 77 kWh","Rear Wheel Drive",4,7,160,450,171,570,46450,41975,2022,77,77
+"BMW i4 M50","All Wheel Drive",5,3.9,225,435,186,670,70800,71085,2021,80.7,80.7
+"Renault Megane E-Tech EV60 220hp","Front Wheel Drive",5,7.4,160,360,167,500,46600,36995,2022,60,60
+"Peugeot e-Rifter Standard 50 kWh","Front Wheel Drive",7,11.7,135,205,226,330,41240,32300,2021,46.3,46.3
+"Peugeot e-Rifter Long 50 kWh","Front Wheel Drive",7,11.7,135,200,232,320,42440,34300,2021,46.3,46.3
+"MG Marvel R ","Rear Wheel Drive",5,7.9,200,335,194,400,46990,NA,2021,65,65
+"Audi Q4 e-tron 45 quattro","All Wheel Drive",5,6.9,180,385,199,490,53990,NA,2021,76.6,76.6
+"Audi Q4 Sportback e-tron 40","Rear Wheel Drive",5,8.5,160,425,180,540,53900,51430,2021,76.6,76.6
+"BMW iX3 ","Rear Wheel Drive",5,6.8,180,385,192,520,67300,64165,2021,74,74
+"Renault Megane E-Tech EV40 130hp","Front Wheel Drive",5,10,150,250,160,360,42000,NA,2022,40,40
+"Mercedes EQS AMG 53 4MATIC+","All Wheel Drive",5,3.4,250,565,191,840,155009,161860,2022,107.8,107.8
+"Mercedes EQE 350+","Rear Wheel Drive",5,6.4,210,525,173,780,NA,NA,2022,90.6,90.6
+"MG ZS EV Standard Range","Front Wheel Drive",5,8.6,175,270,181,260,33990,29495,2021,49,49
+"MG ZS EV Long Range","Front Wheel Drive",5,8.4,175,365,187,410,37990,31995,2021,68.3,68.3
+"Mercedes EQV 250 Long","Front Wheel Drive",7,12,160,205,293,190,68056,NA,2021,60,60
+"Mercedes EQV 250 Extra-Long","Front Wheel Drive",7,12,160,205,293,190,68949,NA,2021,60,60
+"Opel Combo-e Life 50 kWh","Front Wheel Drive",7,11.7,135,205,226,330,43050,34035,2021,46.3,46.3
+"Opel Combo-e Life XL 50 kWh","Front Wheel Drive",7,11.7,135,200,232,320,44750,34635,2021,46.3,46.3
+"Citroen e-Berlingo M 50 kWh","Front Wheel Drive",5,11.7,135,205,226,330,37790,31495,2021,46.3,46.3
+"Citroen e-Berlingo XL 50 kWh","Front Wheel Drive",7,11.7,135,200,232,320,43640,32495,2021,46.3,46.3
+"Tesla Model 3 ","Rear Wheel Drive",5,6.1,225,380,151,630,44668,42990,2021,57.5,57.5
+"Volkswagen ID.5 Pro","Rear Wheel Drive",5,10.4,160,430,179,540,47935,50710,2022,77,77
+"Volkswagen ID.5 Pro Performance","Rear Wheel Drive",5,8.4,160,430,179,540,48970,52185,2022,77,77
+"Volkswagen ID.5 GTX","All Wheel Drive",5,6.3,180,405,190,560,56455,56545,2022,77,77
+"Mercedes EQB 300 4MATIC","All Wheel Drive",7,8,160,335,199,480,55519,55310,2022,66.5,66.5
+"Porsche Taycan GTS","All Wheel Drive",4,3.7,250,450,186,1110,134214,106000,2022,83.7,83.7
+"Porsche Taycan GTS Sport Turismo","All Wheel Drive",4,3.7,250,425,197,1050,135166,107000,2022,83.7,83.7
+"Toyota bZ4X FWD","Front Wheel Drive",5,7.5,160,335,191,500,47490,45710,2022,64,64
+"Toyota bZ4X AWD","All Wheel Drive",5,6.9,160,330,194,490,57390,52110,2022,64,64
+"Subaru Solterra AWD","All Wheel Drive",5,6.9,160,320,200,480,57490,49995,2022,64,64
+"Peugeot e-208 ","Front Wheel Drive",5,8.1,150,290,160,460,39100,34595,2021,46.3,46.3
+"Peugeot e-2008 SUV ","Front Wheel Drive",5,8.5,150,260,178,420,37900,35150,2021,46.3,46.3
+"Opel Corsa-e ","Front Wheel Drive",5,8.1,150,295,157,470,36395,31130,2021,46.3,46.3
+"Opel Mokka-e ","Front Wheel Drive",5,9.2,150,260,178,420,40650,34910,2021,46.3,46.3
+"Citroen e-C4 ","Front Wheel Drive",5,9.7,150,275,168,440,36040,30995,2021,46.3,46.3
+"Renault Megane E-Tech EV60 130hp","Front Wheel Drive",5,10.5,150,365,164,510,47000,NA,2022,60,60
+"SsangYong Korando e-Motion","Front Wheel Drive",5,8.5,156,290,193,330,40490,NA,2022,56,56
+"BMW iX M60","All Wheel Drive",5,3.8,250,485,217,650,136100,119225,2022,105.2,105.2
+"Tesla Model 3 Long Range Dual Motor","All Wheel Drive",5,4.4,233,485,155,750,53668,50990,2021,75,75
+"Citroen e-Jumpy Combi M 50 kWh","Front Wheel Drive",7,12.1,130,185,250,290,51940,35795,2020,46.3,46.3
+"Citroen e-Jumpy Combi XL 50 kWh","Front Wheel Drive",7,12.1,130,180,257,290,52730,35995,2020,46.3,46.3
+"Citroen e-Jumpy Combi M 75 kWh","Front Wheel Drive",7,13.3,130,265,257,290,57940,NA,2020,68,68
+"Citroen e-Jumpy Combi XL 75 kWh","Front Wheel Drive",7,13.3,130,260,262,280,58730,NA,2020,68,68
+"Opel Vivaro-e Combi M 50 kWh","Front Wheel Drive",7,12.1,130,185,250,290,50992,37320,2020,46.3,46.3
+"Opel Vivaro-e Combi L 50 kWh","Front Wheel Drive",7,12.1,130,180,257,290,51825,37520,2020,46.3,46.3
+"Opel Vivaro-e Combi M 75 kWh","Front Wheel Drive",7,13.3,130,265,257,290,56942,NA,2020,68,68
+"Opel Vivaro-e Combi L 75 kWh","Front Wheel Drive",7,13.3,130,260,262,280,57775,NA,2020,68,68
+"Peugeot e-Expert Combi Standard 50 kWh","Front Wheel Drive",7,13.1,130,185,250,290,51940,NA,2021,46.3,46.3
+"Peugeot e-Expert Combi Long 50 kWh","Front Wheel Drive",7,13.1,130,180,257,290,52730,NA,2021,46.3,46.3
+"Peugeot e-Expert Combi Standard 75 kWh","Front Wheel Drive",7,14.3,130,265,257,290,57940,NA,2021,68,68
+"Peugeot e-Expert Combi Long 75 kWh","Front Wheel Drive",7,14.3,130,260,262,280,58730,NA,2021,68,68
+"Toyota PROACE Shuttle M 50 kWh","Front Wheel Drive",7,12.1,130,180,257,290,NA,NA,2021,46.3,46.3
+"Toyota PROACE Shuttle L 50 kWh","Front Wheel Drive",7,12.1,130,180,257,290,NA,NA,2021,46.3,46.3
+"Toyota PROACE Shuttle M 75 kWh","Front Wheel Drive",7,13.1,130,260,262,280,NA,NA,2021,68,68
+"Toyota PROACE Shuttle L 75 kWh","Front Wheel Drive",7,13.1,130,260,262,280,NA,NA,2021,68,68
+"Mercedes eVito Tourer Long 90 kWh","Front Wheel Drive",7,12,160,310,290,310,64248,68352,2020,90,90
+"Mercedes eVito Tourer Extra-Long 90 kWh","Front Wheel Drive",7,12,160,305,295,310,65140,75846,2020,90,90
+"Mercedes eVito Tourer Long 60 kWh","Front Wheel Drive",7,12,160,210,286,310,60678,NA,2022,60,60
+"Mercedes eVito Tourer Extra-Long 60 kWh","Front Wheel Drive",7,12,160,205,293,300,61571,NA,2022,60,60
+"Tesla Model Y Long Range Dual Motor","All Wheel Drive",5,5,217,435,172,670,59017,52990,2022,75,75
+"Tesla Model 3 Performance","All Wheel Drive",5,3.3,261,460,163,710,57668,57990,2022,75,75
+"Porsche Taycan Sport Turismo","Rear Wheel Drive",4,5.4,230,380,187,930,89351,76500,2022,71,71
+"Porsche Taycan Plus Sport Turismo","Rear Wheel Drive",4,5.4,230,445,188,1090,95074,80549,2022,83.7,83.7
+"Porsche Taycan 4S Sport Turismo","All Wheel Drive",4,4,250,370,192,910,109819,87500,2022,71,71
+"Porsche Taycan 4S Plus Sport Turismo","All Wheel Drive",4,4,250,430,195,1060,115341,91406,2022,83.7,83.7
+"Porsche Taycan Turbo Sport Turismo","All Wheel Drive",4,3.2,260,405,207,1000,157300,120900,2022,83.7,83.7
+"Porsche Taycan Turbo S Sport Turismo","All Wheel Drive",4,2.8,260,395,212,970,190620,143400,2022,83.7,83.7
+"Volkswagen ID.4 Pro","Rear Wheel Drive",5,10.4,160,410,188,520,NA,44605,2022,77,77
+"Skoda Enyaq Coupe iV 60","Rear Wheel Drive",5,8.8,160,335,173,450,43000,NA,2022,58,58
+"Skoda Enyaq Coupe iV 80","Rear Wheel Drive",5,8.7,160,445,173,560,54400,44770,2022,77,77
+"Skoda Enyaq Coupe iV 80x","All Wheel Drive",5,7,160,430,179,540,57000,52450,2022,77,77
+"Skoda Enyaq Coupe iV RS","All Wheel Drive",5,6.5,180,405,190,560,63300,54370,2022,77,77
+"MG MG5 Electric Standard Range","Front Wheel Drive",5,7.7,185,265,174,320,35490,NA,2022,46,46
+"Genesis GV60 Premium","Rear Wheel Drive",5,7.8,185,390,190,1020,NA,53905,2022,74,74
+"Genesis GV60 Sport","All Wheel Drive",5,5.5,200,380,195,990,63200,58365,2022,74,74
+"Genesis GV60 Sport Plus","All Wheel Drive",5,4,235,365,203,950,73100,67505,2022,74,74
+"Volkswagen e-Up! ","Front Wheel Drive",4,11.9,130,205,158,170,29995,NA,2021,32.3,32.3
+"Volkswagen ID. Buzz Pro","Rear Wheel Drive",5,10.2,145,330,233,460,64581,57115,2022,77,77
+"Mercedes EQE AMG 43 4MATIC","All Wheel Drive",5,4.2,210,485,187,720,103827,NA,2022,90.6,90.6
+"Mercedes EQE AMG 53 4MATIC+","All Wheel Drive",5,3.5,240,480,189,720,109777,114750,2022,90.6,90.6
+"Nissan Leaf ","Front Wheel Drive",5,7.9,144,235,166,230,33400,28995,2022,39,39
+"Nissan Leaf e+","Front Wheel Drive",5,6.9,157,340,174,240,41100,34945,2022,59,59
+"Hyundai IONIQ 5 Long Range 2WD","Rear Wheel Drive",5,7.3,185,390,190,1020,47900,46650,2022,74,74
+"Hyundai IONIQ 5 Long Range AWD","All Wheel Drive",5,5.1,185,385,192,1010,59200,50150,2022,74,74
+"Mercedes EQB 250","Front Wheel Drive",7,8.9,160,345,193,500,52550,NA,2022,66.5,66.5
+"Kia Niro EV ","Front Wheel Drive",5,7.8,167,380,171,380,47590,36795,2022,64.8,64.8
+"Smart #1 ","Rear Wheel Drive",5,6.7,180,330,188,510,42490,35000,2023,62,62
+"Mercedes EQS SUV 450+","Rear Wheel Drive",7,6.7,210,495,219,650,110801,NA,2022,108.4,108.4
+"Mercedes EQS SUV 450 4MATIC","All Wheel Drive",7,6,210,485,224,630,114609,129170,2022,108.4,108.4
+"Mercedes EQS SUV 580 4MATIC","All Wheel Drive",7,4.6,210,485,224,630,135434,139170,2022,108.4,108.4
+"BMW i7 xDrive60","All Wheel Drive",5,4.7,240,510,199,760,135900,110545,2022,101.7,101.7
+"Lexus RZ 450e","All Wheel Drive",5,5.6,160,310,206,460,68000,66500,2023,64,64
+"Aiways U5 ","Front Wheel Drive",5,7.5,150,315,190,380,39563,NA,2022,60,60
+"Mazda MX-30 ","Front Wheel Drive",5,9.7,140,170,176,210,35990,30050,2022,30,30
+"Lucid Air Dream Edition R","All Wheel Drive",5,2.9,270,685,172,870,218000,NA,2022,118,118
+"Mercedes EQA 250","Front Wheel Drive",5,8.6,160,355,187,510,50777,NA,2022,66.5,66.5
+"Mercedes EQA 250+","Front Wheel Drive",5,8.6,160,375,188,520,52205,52010,2022,70.5,70.5
+"Mercedes EQS 450 4MATIC","All Wheel Drive",5,5.6,210,615,175,920,113359,NA,2022,107.8,107.8
+"Mercedes EQS 500 4MATIC","All Wheel Drive",5,4.8,210,605,178,900,125378,NA,2022,107.8,107.8
+"BMW iX1 xDrive30","All Wheel Drive",5,5.6,180,355,182,510,55000,52255,2022,64.7,64.7
+"Volkswagen ID.4 Pro 4MOTION","All Wheel Drive",5,6.9,180,405,190,510,49020,NA,2022,77,77
+"Genesis G80 Electrified Luxury","All Wheel Drive",5,4.9,225,440,188,880,69200,69805,2022,82.5,82.5
+"Dacia Spring Electric 45","Front Wheel Drive",4,19.1,125,165,152,180,22550,NA,2022,25,25
+"Citroen e-C4 X ","Front Wheel Drive",5,9.7,150,275,168,440,37540,NA,2022,46.3,46.3
+"MG MG4 Electric 51 kWh","Rear Wheel Drive",5,7.7,160,300,169,340,31990,25995,2022,50.8,50.8
+"MG MG4 Electric 64 kWh","Rear Wheel Drive",5,7.9,160,365,169,450,35990,28495,2022,61.7,61.7
+"Fisker Ocean Sport","Front Wheel Drive",5,7.4,160,380,197,480,41560,35970,2023,75,75
+"Fisker Ocean Ultra","All Wheel Drive",5,4.2,200,510,196,730,57000,49880,2023,100,100
+"Fisker Ocean Extreme","All Wheel Drive",5,3.9,200,510,196,730,69950,60880,2023,100,100
+"Fisker Ocean One","All Wheel Drive",5,3.9,200,510,196,730,69950,60880,2023,100,100
+"Mercedes EQE 300","Rear Wheel Drive",5,7.6,210,515,173,650,66402,74345,2022,89,89
+"Mercedes EQE 350","Rear Wheel Drive",5,6.4,210,515,173,650,70210,77345,2022,89,89
+"Mercedes EQE 350 4MATIC","All Wheel Drive",5,6.3,210,500,181,750,73363,NA,2022,90.6,90.6
+"Mercedes EQE 500 4MATIC","All Wheel Drive",5,4.7,210,500,181,750,87286,NA,2022,90.6,90.6
+"Hyundai IONIQ 6 Standard Range 2WD","Rear Wheel Drive",5,8.8,185,360,150,880,43900,NA,2023,54,54
+"Hyundai IONIQ 6 Long Range 2WD","Rear Wheel Drive",5,7.4,185,475,156,1240,54000,46745,2022,74,74
+"Hyundai IONIQ 6 Long Range AWD","All Wheel Drive",5,5.1,185,440,168,1150,61100,50245,2022,74,74
+"Audi Q4 Sportback e-tron 45 quattro","All Wheel Drive",5,6.9,180,400,192,500,55900,NA,2022,76.6,76.6
+"Fiat E-Ulysse L2 50 kWh","Front Wheel Drive",7,12.1,130,185,250,290,55990,NA,2022,46.3,46.3
+"Fiat E-Ulysse L2 75 kWh","Front Wheel Drive",7,13.3,130,265,257,290,61990,NA,2022,68,68
+"Fiat E-Ulysse L3 50 kWh","Front Wheel Drive",7,12.1,130,180,257,290,56990,NA,2022,46.3,46.3
+"Fiat E-Ulysse L3 75 kWh","Front Wheel Drive",7,13.3,130,260,262,280,62990,NA,2022,68,68
+"Genesis GV70 Electrified Sport","All Wheel Drive",5,4.2,235,350,211,860,67300,64405,2022,74,74
+"Fiat 500e 3+1 24 kWh","Front Wheel Drive",4,9,135,135,158,230,NA,NA,2022,21.3,21.3
+"Fiat 500e Cabrio 24 kWh","Front Wheel Drive",4,9,135,135,158,230,35490,NA,2022,21.3,21.3
+"Tesla Model Y ","Rear Wheel Drive",5,6.9,217,345,167,580,47567,44990,2022,57.5,57.5
+"Peugeot e-308 ","Front Wheel Drive",5,9,150,310,164,460,44000,37000,2023,50.8,50.8
+"Peugeot e-308 SW ","Front Wheel Drive",5,9,150,300,169,450,45000,38000,2023,50.8,50.8
+"Hongqi E-HS9 84 kWh","All Wheel Drive",5,6.5,200,305,251,420,NA,NA,2022,76.5,76.5
+"Hongqi E-HS9 99 kWh","All Wheel Drive",5,4.9,200,355,254,410,NA,NA,2022,90,90
+"Smart #1 Brabus","All Wheel Drive",5,3.9,180,320,194,490,48990,42000,2023,62,62
+"Kia e-Soul 64 kWh","Front Wheel Drive",5,7.9,167,370,173,350,46950,39045,2022,64,64
+"Kia e-Soul 39.2 kWh","Front Wheel Drive",5,9.9,157,230,170,200,NA,32845,2022,39.2,39.2
+"NIO ET7 75 kWh","All Wheel Drive",5,3.8,200,400,176,540,81900,NA,2022,70.5,70.5
+"NIO ET7 100 kWh","All Wheel Drive",5,3.8,200,505,178,530,90900,NA,2022,90,90
+"Ford Mustang Mach-E SR RWD","Rear Wheel Drive",5,6.9,180,355,197,370,62900,50830,2022,70,70
+"Ford Mustang Mach-E ER RWD","Rear Wheel Drive",5,7,180,455,200,400,71200,59380,2022,91,91
+"Ford Mustang Mach-E SR AWD","All Wheel Drive",5,6.3,180,345,203,360,69200,NA,2022,70,70
+"Ford Mustang Mach-E ER AWD","All Wheel Drive",5,5.8,180,440,207,390,77200,65405,2022,91,91
+"Ford Mustang Mach-E GT","All Wheel Drive",5,4.4,200,425,214,380,86200,74540,2022,91,91
+"Polestar 3 Long Range Dual motor","All Wheel Drive",5,5,210,490,218,640,88600,79900,2022,107,107
+"Polestar 3 Long Range Performance","All Wheel Drive",5,4.7,210,470,228,610,95200,85500,2022,107,107
+"Mercedes EQE SUV 350+","Rear Wheel Drive",5,7,210,470,193,700,90000,NA,2022,90.6,90.6
+"Mercedes EQE SUV 350 4MATIC","All Wheel Drive",5,6.5,210,455,199,680,95000,90560,2022,90.6,90.6
+"Mercedes EQE SUV 500 4MATIC","All Wheel Drive",5,5,210,455,199,680,115000,108760,2022,90.6,90.6
+"Mercedes EQE SUV AMG 43 4MATIC","All Wheel Drive",5,4.3,210,435,208,650,124920,NA,2022,90.6,90.6
+"Mercedes EQE SUV AMG 53 4MATIC+","All Wheel Drive",5,3.5,240,425,213,630,130000,120000,2023,90.6,90.6
+"Rolls-Royce Spectre ","All Wheel Drive",4,4.5,250,455,220,540,4e+05,350000,2023,100,100
+"Aiways U6 ","Front Wheel Drive",5,7,160,350,171,430,47588,NA,2022,60,60
+"Lotus Eletre ","All Wheel Drive",5,4.5,250,520,206,1090,95990,89500,2023,107,107
+"Lotus Eletre R","All Wheel Drive",5,2.9,260,450,238,940,150990,120000,2023,107,107
+"Audi Q8 e-tron 50 quattro","All Wheel Drive",5,6,200,415,214,580,74400,67800,2022,89,89
+"Audi Q8 e-tron 55 quattro","All Wheel Drive",5,5.6,200,495,214,670,85300,77800,2022,106,106
+"Audi Q8 e-tron Sportback 50 quattro","All Wheel Drive",5,6,200,440,202,610,76650,70300,2022,89,89
+"Audi Q8 e-tron Sportback 55 quattro","All Wheel Drive",5,5.6,200,525,202,710,87550,80300,2022,106,106
+"Audi SQ8 e-tron ","All Wheel Drive",5,4.5,210,445,238,600,110000,98295,2023,106,106
+"Audi SQ8 e-tron Sportback ","All Wheel Drive",5,4.5,210,470,226,630,115000,100795,2023,106,106
+"Volvo EX90 Twin Motor","All Wheel Drive",7,5.9,180,455,235,590,105550,96255,2022,107,107
+"Volvo EX90 Twin Motor Performance","All Wheel Drive",7,4.9,180,440,243,570,110650,100555,2022,107,107
+"Mercedes EQB 250+","Front Wheel Drive",7,8.9,160,365,193,490,53978,NA,2022,70.5,70.5
+"Toyota Proace City Verso Electric L1 50 kWh","Front Wheel Drive",5,11.2,135,210,220,330,37800,NA,2022,46.3,46.3
+"Toyota Proace City Verso Electric L2 50 kWh","Front Wheel Drive",7,11.2,135,205,226,330,40150,NA,2022,46.3,46.3
+"ORA Funky Cat 48 kWh","Front Wheel Drive",5,8.3,160,260,175,240,38990,31995,2022,45.4,45.4
+"BYD ATTO 3 ","Front Wheel Drive",5,7.3,160,320,188,300,44625,36490,2022,60,60
+"BYD TANG ","All Wheel Drive",7,4.6,180,350,240,330,71400,NA,2022,84,84
+"BYD HAN ","All Wheel Drive",5,3.9,180,465,178,450,70805,NA,2023,83,83
+"BMW i4 eDrive35","Rear Wheel Drive",5,6,190,400,168,540,56500,49995,2022,67,67
+"NIO ET5 75 kWh","All Wheel Drive",5,4,200,395,178,530,59500,NA,2022,70.5,70.5
+"NIO ET5 100 kWh","All Wheel Drive",5,4,200,495,182,520,68500,NA,2022,90,90
+"NIO EL7 75 kWh","All Wheel Drive",5,3.9,200,340,207,460,85900,NA,2022,70.5,70.5
+"NIO EL7 100 kWh","All Wheel Drive",5,3.9,200,430,209,450,94900,NA,2022,90,90
+"Abarth 500e Scorpionissima","Front Wheel Drive",4,7,155,225,166,370,43000,36000,2023,37.3,37.3
+"DS 3 E-Tense","Front Wheel Drive",5,9,150,300,169,480,40540,37200,2022,50.8,50.8
+"Opel Astra Electric","Front Wheel Drive",5,8.5,170,310,164,500,40000,36000,2023,50.8,50.8
+"Opel Astra Sports Tourer Electric","Front Wheel Drive",5,8.5,170,300,169,480,42000,37000,2023,50.8,50.8
+"Jeep Avenger Electric 1st Edition","Front Wheel Drive",5,9,150,295,172,470,39900,36500,2023,50.8,50.8
+"Mercedes EQS SUV 500 4MATIC","All Wheel Drive",7,5.2,210,485,224,630,124545,NA,2022,108.4,108.4
+"Volvo XC40 Recharge Single Motor","Rear Wheel Drive",5,7.3,180,345,191,420,47500,46505,2022,66,66
+"Volvo XC40 Recharge Single Motor ER","Rear Wheel Drive",5,7.3,180,405,195,600,53000,NA,2022,79,79
+"Volvo XC40 Recharge Twin Motor","All Wheel Drive",5,4.8,180,390,203,580,59950,51755,2022,79,79
+"Volvo C40 Recharge Single Motor","Rear Wheel Drive",5,7.3,180,355,186,430,47500,48355,2022,66,66
+"Volvo C40 Recharge Single Motor ER","Rear Wheel Drive",5,7.3,180,420,188,630,54450,NA,2022,79,79
+"Volvo C40 Recharge Twin Motor","All Wheel Drive",5,4.7,180,400,198,600,61400,53605,2022,79,79
+"Renault Kangoo E-Tech Electric","Front Wheel Drive",5,12.6,132,215,205,230,39300,NA,2022,44,44
+"Maserati GranTurismo Folgore","All Wheel Drive",4,2.7,320,425,195,990,250000,2e+05,2023,83,83
+"Seres 3 ","Front Wheel Drive",5,8.9,155,260,196,240,NA,NA,2021,51,51
+"VinFast VF 8 Eco Standard Range","All Wheel Drive",5,5.9,200,405,202,560,61700,NA,2023,82,82
+"VinFast VF 8 Eco Extended Range","All Wheel Drive",5,5.9,200,425,206,550,63850,NA,2023,87.7,87.7
+"VinFast VF 8 Plus Standard Range","All Wheel Drive",5,5.5,200,400,205,560,68700,NA,2023,82,82
+"VinFast VF 8 Plus Extended Range","All Wheel Drive",5,5.5,200,425,206,550,72500,NA,2023,87.7,87.7
+"VinFast VF 9 Standard Range","All Wheel Drive",7,6.5,200,400,230,540,82250,NA,2023,92,92
+"VinFast VF 9 Extended Range","All Wheel Drive",7,6.5,200,520,237,520,89800,NA,2023,123,123
+"Jaguar I-Pace EV400","All Wheel Drive",5,4.8,200,380,223,360,92400,69995,2023,84.7,84.7
+"Dacia Spring Electric 65 Extreme","Front Wheel Drive",4,13.7,125,160,156,170,24550,NA,2023,25,25
+"ORA Funky Cat 63 kWh","Front Wheel Drive",5,8.2,160,340,174,240,44490,NA,2023,59.3,59.3
+"ORA Funky Cat GT","Front Wheel Drive",5,8.2,160,330,180,230,49490,NA,2023,59.3,59.3
+"Jeep Avenger Electric ","Front Wheel Drive",5,9,150,300,169,480,37000,34800,2023,50.8,50.8
+"Polestar 2 Standard Range Single Motor","Rear Wheel Drive",5,6.4,205,385,174,620,50775,44950,2023,67,67
+"Polestar 2 Long Range Single Motor","Rear Wheel Drive",5,6.2,205,440,177,680,54475,48950,2023,78,78
+"Polestar 2 Long Range Dual Motor","All Wheel Drive",5,4.5,205,420,186,650,58775,52950,2023,78,78
+"Polestar 2 Long Range Performance","All Wheel Drive",5,4.2,205,410,190,630,65275,57950,2023,78,78
+"XPENG P7 RWD Long Range","Rear Wheel Drive",5,6.7,200,500,165,700,NA,NA,2023,82.7,82.7
+"XPENG P7 AWD Performance","All Wheel Drive",5,4.1,200,470,176,650,NA,NA,2023,82.7,82.7
+"XPENG P7 Wing Edition","All Wheel Drive",5,4.1,200,465,178,650,NA,NA,2023,82.7,82.7
+"XPENG G9 RWD Standard Range","Rear Wheel Drive",5,6.4,200,375,200,780,NA,NA,2023,75,75
+"XPENG G9 RWD Long Range","Rear Wheel Drive",5,6.4,200,470,200,980,NA,NA,2023,94,94
+"XPENG G9 AWD Long Range","All Wheel Drive",5,3.9,200,440,214,920,NA,NA,2023,94,94
+"Mini Cooper SE Convertible","Front Wheel Drive",4,8.2,150,170,170,240,60000,52500,2023,28.9,28.9
+"Volkswagen ID.4 GTX","All Wheel Drive",5,6.3,180,400,193,560,53255,52865,2022,77,77
+"Hyundai Kona Electric 48 kWh","Front Wheel Drive",5,10,155,300,161,290,40000,35000,2023,48.4,48.4
+"Hyundai Kona Electric 65 kWh","Front Wheel Drive",5,8,167,400,164,410,48000,40000,2023,65.4,65.4
+"Volkswagen ID.3 Pro","Rear Wheel Drive",5,7.3,160,350,166,450,39995,35000,2023,58,58
+"Volkswagen ID.3 Pro S - 4 Seats","Rear Wheel Drive",4,7.9,160,455,169,680,47595,43000,2023,77,77
+"Kia EV9 99.8 kWh RWD","Rear Wheel Drive",7,9.4,180,460,217,870,65000,60000,2023,99.8,99.8
+"Kia EV9 99.8 kWh AWD","All Wheel Drive",7,5.3,180,450,222,850,70000,65000,2023,99.8,99.8
+"Peugeot e-208 ","Front Wheel Drive",5,8.2,150,310,155,480,41850,34955,2022,48.1,48.1
+"Maxus MIFA 9 ","Front Wheel Drive",7,9.2,180,345,261,290,NA,64306,2023,90,90
+"BMW i7 M70 xDrive","All Wheel Drive",5,3.7,250,490,208,730,2e+05,175000,2023,101.7,101.7
+"Volkswagen ID.7 Pro","Rear Wheel Drive",5,8,180,470,164,700,55000,53000,2023,77,77
+"Volkswagen ID.7 Pro S","Rear Wheel Drive",5,7,180,520,165,800,60000,56000,2023,86,86
+"Polestar 4 Long Range Single Motor","Rear Wheel Drive",5,7.4,180,510,184,760,60000,55000,2024,94,94
+"Polestar 4 Long Range Dual Motor","All Wheel Drive",5,3.8,200,475,198,710,65000,60000,2024,94,94
+"Maserati Grecale Folgore","All Wheel Drive",5,4.1,220,405,235,440,NA,135000,2023,95,95
